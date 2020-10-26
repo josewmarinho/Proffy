@@ -17,7 +17,7 @@
   </sub>
 </div>
 
-# :pushpin: Table of Contents
+# :pushpin: Tabela de Conteúdo
  
 * [Tecnologias](#computer-technologies)
 * [Funcionalidades](#rocket-features)

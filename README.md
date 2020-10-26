@@ -7,7 +7,7 @@
 <p align="center">
     <a href="README.md">English</a>
     ·
-    <a href="README-pt.md">Portuguese</a>
+    <a href="README-pt.md">Portugues</a>
  </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
   </sub>
 </div>
 
-# :pushpin: Tabela de Conteúdo
+# :pushpin: Table of Contents
 
 * [Technologies](#computer-technologies)
 * [Features](#rocket-features)
